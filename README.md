@@ -1,0 +1,2 @@
+# Teuvo-Partala
+Koulu Projekti
